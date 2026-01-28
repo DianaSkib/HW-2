@@ -71,12 +71,5 @@ public class Main {
         var human = 94;
         var allWorkers = workers+human;
         System.out.println ("Если в компании работает " + allWorkers+ " человека "+ " то всего " + allWorkers*workingHours+ " часов работы может быть поделено между сотрудниками.");
-
-
-
-
-
-
-
     }
     }
